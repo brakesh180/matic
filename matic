@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x0643952acCfA0796504520E06f5CAFC5aBD070e0'
+quorum: 1
+# matic
